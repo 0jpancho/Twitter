@@ -12,7 +12,30 @@ main#feed{
 article.tweet{
     width:80%;
     margin:0 auto;
-    min-height: 200px;
+    min-height: 100px;
     border: 4px solid #c0deed;
     border-radius: 16px;
+    padding:5px;
+}
+div.content{
+    width:10%;
+    /*margin:0 auto;*/
+    /*padding:10px;*/
+    min-height:100px;
+    /*border: 2px solid #c0deed;
+    border-radius: 10px;*/
+}
+#img{
+    width:100px;
+    height:100px;
+    margin: 0 auto;
+}
+div.wordzone{
+    width:90%;
+    padding:10px;
+    /*height: 80px*/
+}
+div.box{
+    width:auto;
+    padding:10px;
 }
