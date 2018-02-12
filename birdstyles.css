@@ -37,3 +37,17 @@ div.wordzone{
 .floatleft{
     float: left;
 }
+span.bold{
+    font-weight: 900;
+}
+.mleft{
+    margin-left: 95px;
+    padding: 10px;
+}
+#bodyimg{
+    height: 200px;
+    width: auto;
+}
+footer{
+    height: 40px;
+}
