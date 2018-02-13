@@ -28,7 +28,7 @@ div.content{
     margin: 0 auto;
 }
 div.wordzone{
-    width:100px;
+    width:75%;
     padding:10px;
     margin: 0 auto;
     margin-left: 100px;
@@ -45,8 +45,8 @@ span.bold{
     padding: 10px;
 }
 #bodyimg{
-    height: 200px;
-    width: auto;
+    height: auto;
+    width: 75%;
 }
 footer{
     height: 40px;
